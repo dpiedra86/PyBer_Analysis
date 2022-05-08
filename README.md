@@ -8,3 +8,13 @@ With this excersise we also used Pandas to organize the information. This makes 
 
 ### Results
 
+> Cities_dataframe
+
+![citi_dataframe](https://github.com/dpiedra86/PyBer_Analysis/blob/main/practice_images/city_type_df.png)
+
+
+> Data Visualizations
+
+![plot_lines](https://github.com/dpiedra86/PyBer_Analysis/blob/main/practice_images/plot_cities.png)
+
+![bubble_lines](https://github.com/dpiedra86/PyBer_Analysis/blob/main/practice_images/bubble_chart.png)
