@@ -13,7 +13,8 @@ With this excersise we also used Pandas to organize the information. This makes 
 In the following Data set we can observe with clarity how each type of city behaves in terms of number of rides and gains.
 As it may seem that with a higher fare rate the business should be making more incomes, the reality is that even with a smaller rate in the average fares in urban a high volume on trips genrates a better income.
 
-![citi_dataframe](https://github.com/dpiedra86/PyBer_Analysis/blob/main/practice_images/city_type_df.png)
+
+
 
 
 > Data Visualizations
